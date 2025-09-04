@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Studio One-Click Liker",
+  "version": "1.0",
+  "description": "Likes all un-hearted comments on YouTube Studio page with a single click on the extension icon.",
+  "homepage_url": "https://harsh98trivedi.github.io/links",
+  "permissions": ["scripting", "activeTab", "tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  }
+}
