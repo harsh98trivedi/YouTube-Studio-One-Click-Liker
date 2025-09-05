@@ -1,8 +1,10 @@
-# YouTube Studio One-Click Liker
+# [YouTube Studio One-Click Liker](https://chromewebstore.google.com/detail/youtube-studio-one-click/nponiplhcgglkjekghjcliplhocfnkik)
 
-![YouTube Studio One-Click Liker](images/meta.jpg)
+[![YouTube Studio One-Click Liker](images/meta.jpg)](https://chromewebstore.google.com/detail/youtube-studio-one-click/nponiplhcgglkjekghjcliplhocfnkik)
 
 A simple but powerful Chrome extension that saves you time by liking all un-hearted comments on your YouTube Studio comments page with a single click.
+
+**[➡️ Check it out on the Chrome Web Store!](https://chromewebstore.google.com/detail/youtube-studio-one-click/nponiplhcgglkjekghjcliplhocfnkik)**
 
 ## How to Use
 
