@@ -17,3 +17,6 @@ A simple but powerful Chrome extension that saves you time by liking all un-hear
 - **One-Click Operation:** No popups or extra steps required.
 - **Safe:** The extension only runs on the YouTube Studio comments page and does nothing else.
 - **Efficient:** It quickly scans the page and likes dozens of comments in seconds.
+
+<a href="https://peerlist.io/harshtrivedi/project/youtube-studio-oneclick-liker" target="_blank" rel="noreferrer"><img src="https://peerlist.io/api/v1/projects/embed/PRJHP6L8GBMQLJP7P1RKGABAM7GPKM?showUpvote=true&theme=dark"
+alt="YouTube Studio One-Click Liker" style="width: auto; height: 72px;"/></a>
